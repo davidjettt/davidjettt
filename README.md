@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 I am a creative, detail-oriented developer. I've produced intuitive solutions to problems to developing appealing user interfaces.
 
-[![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidjettt)](https://github.com/davidjettt/github-readme-stats)
+![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidjettt&theme=dark&show_icons=true)
