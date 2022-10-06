@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a creative, detail-oriented developer. I've produced intuitive solutions to problems to developing appealing user interfaces.
+I am a creative, detail-oriented developer. I enjoy building functional and visually appealing web applications. 
 
 ![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidjettt&theme=dark&show_icons=true)
