@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello my name is David! I am a creative, detail-oriented developer. I
+My name is David! I am a creative, detail-oriented developer. I
 love problem solving and use this to fuel my passion for designing
 functional and elegant web applications. I enjoy challenges and have a
 curiosity and desire to always build my knowledge. Some of my hobbies
