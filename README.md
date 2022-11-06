@@ -17,5 +17,4 @@ Here are some ideas to get you started:
 
 I am a creative, detail-oriented developer. I enjoy building functional and visually appealing web applications. 
 
-![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidjettt&theme=dark&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidjettt)](https://github.com/davidjettt/github-readme-stats)
+![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidjettt&theme=tokyonight&show_icons=true)
