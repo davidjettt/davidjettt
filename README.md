@@ -15,6 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a creative, detail-oriented developer. I enjoy building functional and visually appealing web applications. 
+Hello my name is David! I am a creative, detail-oriented developer. I
+love problem solving and use this to fuel my passion for designing
+functional and elegant web applications. I enjoy challenges and have a
+curiosity and desire to always build my knowledge. Some of my hobbies
+besides coding include working out at the gym, snowboarding, traveling,
+photography, and editing photos. 
 
 ![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidjettt&theme=tokyonight&show_icons=true)
