@@ -22,4 +22,4 @@ curiosity and desire to always build my knowledge. Some of my hobbies
 besides coding include working out at the gym, snowboarding, traveling,
 photography, and editing photos. 
 
-<!-- ![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidjettt&theme=tokyonight&show_icons=true) -->
+![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidjettt&theme=tokyonight&show_icons=true)
